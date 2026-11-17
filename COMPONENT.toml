@@ -3,7 +3,7 @@ name = "SigmaOS-fallback-boot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fallback-boot component"
+description = "fallback boot component"
 upstream = []
 
 [contract]
